@@ -51,11 +51,9 @@ Reporting to the Head of Operations, an in-depth analysis was conducted to evalu
 
 ## Executive Summary
 
-![Growth Rates Bar Chart](assets/growthRatesBar.png)
-
 ![Yearly Growth Rates](assets/yearlyGrowthRatesHoriz.png)
 
-### Sales Trends
+### Overall Sales Trends
 
 - The pandemic caused sales to spike significantly in 2020 and began to normalize by 2022.
 - **Seasonality**: Q3 and Q4 see the most sales year to year, lining up with back-to-school and holiday shopping.
@@ -125,24 +123,6 @@ Reporting to the Head of Operations, an in-depth analysis was conducted to evalu
 
 ---
 
-### AOV follows a similar trend to sales revenue
-
-![AOV Yearly Chart](assets/AOVYearlyColors.png)
-
-- **Pandemic Surge**: AOV increased by **~31%** from 2019–2020, signaling that customers were placing higher-value orders during the pandemic.
-- **Post-Pandemic Decline**: AOV decreased by **15%** in 2021 and by **10%** in 2022, showing that customers ordered lower-value items as the pandemic era concluded.
-
----
-
-### Order Count hit its highest total in 2021, despite decreasing revenue
-
-![Order Count Yearly Chart](assets/OrderCountYearlyColors.png)
-
-- **Spike in 2020**: The total order count **doubled (101% increase)** from 2019–2020, which helps explain the dramatic increase in sales revenue during that period.
-- **Interesting Increase**: Order count actually increased by **5%** from 2020–2021 despite decreased sales revenue, and there was a notable **15%** decrease in AOV during the same period, indicating that customers were placing a greater number of orders on lower-value items.
-
----
-
 ### Seasonality: Q3 and Q4 drive sales revenue, order count, and AOV year to year
 
 ![Seasonality Line Chart](assets/seasonalityLine.png)
@@ -153,6 +133,15 @@ Reporting to the Head of Operations, an in-depth analysis was conducted to evalu
 
 ---
 
+### Decreasing revenue and AOV in 2021 driven by decreased demand for high-value products
+
+![Order Count Yearly Chart](assets/stackedBarOrderCountAOV.png)
+
+- **Pandemic Surge**: AOV increased by **~31%** and total order count **doubled (17k to 34k)** from 2019–2020, signaling that customers were placing more frequent higher-value orders during the pandemic.
+- **Post-Pandemic Shift and Decline**: Order count increased by **5% (34k to 36k)** from 2020–2021 despite decreased sales revenue and a **15%** decrease in AOV during the same period, these shifts were driven by a **30%** decrease in orders for laptops and a **46%** increase in orders for Samsung accessory products, indicating that customer demand shifted toward lower-priced items as the pandemic era concluded.
+
+---
+
 ## Product Performance
 
 ### The top four products account for 99% of total sales revenue and experience dramatic fluctuations in sales
@@ -160,8 +149,8 @@ Reporting to the Head of Operations, an in-depth analysis was conducted to evalu
 ![Product Sales Revenue Graph 2019–2022](assets/totalSalesAllProducts.png)
 
 - **Most Volatile Product**: The MacBook Air Laptop experienced the largest swings in sales during the period — increasing by **384%** from 2019 ($600K) to 2020 ($2.9M), dropping by **35%** from 2020 to 2021 ($1.9M), and dropping another **55%** from 2021 to 2022 ($850K) — largely contributing to the dramatic decline in revenue observed following 2020.
-- **Decreasing Demand**: The **ThinkPad Laptop** was the only top contributor that did not experience a significant spike in sales in Q4 of 2021; this may indicate the item's popularity among customers is dwindling.
-- **Continued Demand**: The **27in 4K Gaming Monitor** consistently leads sales and, while other popular products remained stagnant, saw a spike in sales at the end of Q4 2022, showing that there is consistent demand for the product.
+- **Decreasing Demand**: The ThinkPad Laptop was the only top contributor that did not experience a significant spike in sales in Q4 of 2021; this may indicate the item's popularity among customers is dwindling.
+- **Continued Demand**: The 27in 4K Gaming Monitor consistently leads sales and, while other popular products remained stagnant, saw a spike in sales at the end of Q4 2022, showing that there is consistent demand for the product.
 - **Risk and Opportunity**: Sales are concentrated among the top four products, which poses a risk but highlights an opportunity to expand product offerings in specific categories.
 
 ---
@@ -249,7 +238,7 @@ Reporting to the Head of Operations, an in-depth analysis was conducted to evalu
 - **Shift in AirPods**: Compared to non-loyalty customers, loyalty customers placed about **3x more** orders of Apple AirPods Headphones in 2021, and **2x more** in 2022, accounting for **$2.8M** of sales revenue in 2021–2022 and overshadowing non-loyalty AirPods sales at **$1.1M**.
 - **Spike in 2021**: Loyalty program order counts for the 27in Gaming Monitor and the ThinkPad Laptop were about **30% higher** than non-loyalty in 2021, but both had similar order counts in 2022.
 - **MacBooks**: In 2019 and 2020, no loyalty customers placed orders for the MacBook Air Laptop. In 2021 and 2022, loyalty customers ordered about **200 units** per year, contributing about **$600K** to sales revenue.
-  - **Possible Data Issue**: Based on the other data, it seems unlikely that no loyalty members purchased MacBooks prior to 2021, so this data may be missing.
+  - **Possible Data Issue**: Based on the other product data, it seems unlikely that no loyalty members purchased MacBooks prior to 2021, so this data may be missing.
 - **Maintain Program Growth**: Capitalize on the popularity of the Apple AirPods and offer promotional deals to members, as well as cultivate the growing appeal of the MacBook Air among loyalty members with a bundle deal.
 
 ---
@@ -281,7 +270,7 @@ Reporting to the Head of Operations, an in-depth analysis was conducted to evalu
 
 - **AirPods Dominate Orders**: AirPods consistently sell the best in every region accounting for an average of **43%** of total orders in each region, followed by the 27in 4K Gaming Monitor at an average of **23%**.
 - **Sales Leader**: The 27in 4K Gaming Monitor is the largest contributor to sales in every region accounting for an average of **35%** of total sales revenue.
-- **Similar Demand**: Since all the regions show similar demand for each product, we can expect that each region will respond similarly to new product offerings and promotions.
+- **Similar Demand**: Since all the regions show similar demand for each product, we can reasonably expect that each region will respond similarly to new product offerings and promotions.
 
 ---
 
